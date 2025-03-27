@@ -17,6 +17,7 @@ A simple Django project that serves as a starting point for building web applica
 - [Build Your Django App](#build-your-django-app)
 - [Contributing](#contributing)
 - [License](#license)
+- [Learning Path](#learning-path)
 
 ## Installation
 
@@ -142,5 +143,9 @@ If you have any questions or issues, please open an issue in the repository’s 
 ## License
 
 This project is open source and available under the MIT License.
+
+## Learning Path
+
+For a step-by-step guide to master Django, check out our [Django Learning Path](Docs/Learn.md).
 
 Feel free to modify any section as needed. Enjoy building your Django project!
